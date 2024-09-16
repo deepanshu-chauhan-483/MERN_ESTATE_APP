@@ -3,12 +3,12 @@ import React from 'react'
 export default function About() {
   return (
     <div className='py-20 px-4 max-w-6xl mx-auto'>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Sahand Estate</h1>
-      <p className='mb-4 text-slate-700'>Sahand Estate is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About MERN Estate</h1>
+      <p className='mb-4 text-slate-700'>MERN Estate is a real estate web application created by Deepanshu Chauhan, a student, for educational and practice purposes. This application aims to help users buy, sell, and rent properties in various neighborhoods. Deepanshu has developed this project to enhance his skills in web development and provide a practical solution for real estate needs.</p>
       <p className='mb-4 text-slate-700'>
-      Our mission is to help our clients achieve their real estate goals by providing expert advice, personalized service, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, we are here to help you every step of the way.
+      The mission of MERN Estate is to offer users a seamless experience in achieving their real estate goals by providing a user-friendly platform, expert advice, and a deep understanding of the local market. Whether you are looking to buy, sell, or rent a property, this application is designed to assist you every step of the way.
       </p>
-      <p className='mb-4 text-slate-700'>Our team of agents has a wealth of experience and knowledge in the real estate industry, and we are committed to providing the highest level of service to our clients. We believe that buying or selling a property should be an exciting and rewarding experience, and we are dedicated to making that a reality for each and every one of our clients.</p>
+      <p className='mb-4 text-slate-700'>Deepanshu has put significant effort into ensuring that MERN Estate is both functional and educational, making it a valuable tool for anyone interested in real estate. He believes that engaging with real-world projects is the best way to learn and grow as a developer, and MERN Estate is a testament to that philosophy.</p>
     </div>
   )
 }

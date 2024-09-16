@@ -12,7 +12,7 @@ import Listing from './pages/Listing';
 import Search from './pages/Search';
 
 export default function App() {
-  return (
+  return (<div className='bg-slate-200 bg-no-repeat bg-cover overflow-hidden'>
     <BrowserRouter>
       <Header />
       <Routes>
@@ -33,5 +33,6 @@ export default function App() {
         </Route>
       </Routes>
     </BrowserRouter>
+    </div>
   );
 }
